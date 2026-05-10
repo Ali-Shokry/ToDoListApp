@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #46529d;
+  background-color: #3d3b3b;
   font-family: sans-serif;
   color: #fff;
 }
@@ -27,10 +27,10 @@ h1 {
   text-align: center;
 }
 .listItems {
-  background-color: #fff;
+  background-color: #c1bebe;
   width: 80%;
   margin:auto;
-  color: #46529d;
+  color: #000;
 }
 .listItems p {
   text-align: center;
@@ -45,7 +45,7 @@ h1 {
   padding: 10px 0;
 }
 .row1 {
-  background-color: #20b2f4;
+  background-color: #000000;
   color: #fff;
 }
 /* .name , form input[type = "text"] {
@@ -99,7 +99,7 @@ input::placeholder {
   font-size: 15px;
 } 
 input[type="submit"] {
-  background-color: #20b2f4;
+  background-color: #000;
   color: #fff;
   cursor: pointer;
 } 
