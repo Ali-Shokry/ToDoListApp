@@ -1,0 +1,4 @@
+const appLocal = {
+    ar: "",
+    en :""
+}
